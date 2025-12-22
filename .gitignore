@@ -1,0 +1,8 @@
+# Virtual environment
+crypto_env/
+
+# Dummy test file
+dummy_file_100mb.txt
+
+# Python cache
+__pycache__/
