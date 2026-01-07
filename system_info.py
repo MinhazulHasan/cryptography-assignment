@@ -1,9 +1,3 @@
-"""
-System Information for Cryptography Assignment
-Run this first to document your system specifications
-Student ID: 0424312042
-"""
-
 import platform
 import psutil
 

@@ -1,9 +1,3 @@
-"""
-Dummy File Generator for Cryptography Assignment
-Generates a 100MB test file with random alphanumeric characters
-Student ID: 0424312042
-"""
-
 import os
 import string
 import random
